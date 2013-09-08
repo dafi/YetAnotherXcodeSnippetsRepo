@@ -7,5 +7,5 @@ Installation
 ============
 
 1. Close XCode
-2. Copy files into /Users/dave/Library/Developer/Xcode/UserData/CodeSnippets/
+2. Copy files into `/Users/dave/Library/Developer/Xcode/UserData/CodeSnippets/`
 3. Restart XCode
